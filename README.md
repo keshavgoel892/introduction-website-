@@ -1,7 +1,4 @@
-# Tensor Agri Web Application 🌱  
-**"Empowering Agriculture Through Innovation & STEM Education | Transforming Farming for a Sustainable Future."**
 
-The Tensor Agri Web Application combines cutting-edge technologies to transform agriculture with AI tools, real-time data visualization, and STEM-based educational resources.  
 
 ---
 
